@@ -26,13 +26,13 @@ As commute distance increases, the number of bike purchases decreases.
 4. Demographic Filters
 The dashboard includes interactive filters for:
 
-# 👫 Marital Status
+👫 Marital Status
 
-# 🎓 Education Level
+🎓 Education Level
 
-# 🌍 Region
+🌍 Region
 
-# 🚗 Number of Cars Owned
+🚗 Number of Cars Owned
 
 These filters enable real-time segmentation and targeted analysis.
 
@@ -47,7 +47,7 @@ Product Positioning: Determine what customer segment to focus on for future bike
 📁 Bike-Sales-Dashboard
 ├── 📊 Bike Sales Dashboard_Mukul.xlsx      # The fully functional Excel dashboard
 ├── 🖼️ Bike_sales_dashboard_mukul.png       # Dashboard preview image
-└── 📄 README.md                             # Project documentation
+└── 📄 README.md                            # Project documentation
 
 # 🛠️ Tools Used
 Microsoft Excel
