@@ -8,22 +8,22 @@ A dynamic and interactive Excel-based visualization that provides key insights i
 This dashboard leverages Excel's advanced visualization and interactivity capabilities (slicers, charts, and pivot tables) to analyze bike purchase trends based on demographic and behavioral variables. The tool is designed to offer quick filtering and deep-dive analysis for a data-driven business strategy.
 
 # 📌 Key Insights Provided
-1. Income vs Bike Purchase
-Higher income levels, especially among males, show a stronger correlation with bike purchases.
+<h2> 1. Income vs Bike Purchase </h2>
 
-Males who purchased bikes had an average income of $58,907, compared to $50,107 for those who did not.
+* Higher income levels, especially among males, show a stronger correlation with bike purchases.
+* Males who purchased bikes had an average income of $58,907, compared to $50,107 for those who did not.
 
-2. Age Bracket Distribution
-Middle-aged individuals (31-54) are the most active bike purchasers.
+<h2> 2. Age Bracket Distribution </h2>
 
-Younger (0–30) and senior (55+) age groups are less likely to buy bikes.
+* Middle-aged individuals (31-54) are the most active bike purchasers.
+* Younger (0–30) and senior (55+) age groups are less likely to buy bikes.
 
-3. Commute Distance Trends
-People with short commutes (0–1 miles) are more inclined to purchase bikes.
+<h2> 3. Commute Distance Trends </h2>
 
-As commute distance increases, the number of bike purchases decreases.
+* People with short commutes (0–1 miles) are more inclined to purchase bikes.
+* As commute distance increases, the number of bike purchases decreases.
 
-4. Demographic Filters
+<h2> 4. Demographic Filters </h2>
 The dashboard includes interactive filters for:
 
 👫 Marital Status
