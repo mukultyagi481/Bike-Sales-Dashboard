@@ -43,11 +43,8 @@ Marketing Campaigns: Target potential customers using income and age data.
 
 Product Positioning: Determine what customer segment to focus on for future bike models.
 
+![image](https://github.com/user-attachments/assets/58c5cdf4-29c2-4d92-a4bc-39f500b35a8a)
 
-📁 Bike-Sales-Dashboard
-├── 📊 Bike Sales Dashboard_Mukul.xlsx      # The fully functional Excel dashboard
-├── 🖼️ Bike_sales_dashboard_mukul.png       # Dashboard preview image
-└── 📄 README.md                            # Project documentation
 
 # 🛠️ Tools Used
 Microsoft Excel
